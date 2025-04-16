@@ -20,5 +20,4 @@ This project demonstrates a simple contact form using PHP and PHPMailer to send 
 1. **Clone the Repository**:
 
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name](https://github.com/ssantoshhhhh/phpmailer)
+   git clone https://github.com/ssantoshhhhh/phpmailer.git
